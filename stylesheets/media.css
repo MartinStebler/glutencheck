@@ -1,0 +1,400 @@
+/*	Cascading Style Sheet Media	*/
+/*	martinstebler.ch			*/
+/*	Martin Stebler | Copyright 	*/
+
+
+@media screen and (max-width: 319px) {
+	
+	#logo {
+		font-size: 40px;
+		width: 100%;
+		margin: 0 auto;
+	}
+		
+	#subtit {
+		font-size: 15px;
+	}
+	
+	.slides_container {
+		width:200px;
+		height:380px;
+		margin: 0 auto;
+	}
+	
+	.slides_container div {
+		width:200px;
+		height:380px;
+		display:block;
+	}
+
+	.promoImg {
+		width:200px;
+		height:380px;
+	}
+	
+	#wrappr, #phone, #description, .text, #donate, .donatewrappr {
+		width: 100%;
+	}
+	
+	#projects {
+		margin-top: 20px;
+	}
+	
+	#description {
+		padding: 2px;
+		margin-top: 20px;
+	}
+	
+	#welcome {
+		font-size: 14px;
+		position: relative;
+		margin-top: -420px;
+	}
+	
+	#slides {
+		position: relative;
+		top: 35px;
+	}
+	
+	#info {
+		padding-bottom: 435px;
+	}
+	
+	#info, #about, #contact {
+		font-size: 12px;
+	}
+	
+	#about {
+		padding: 10px;
+	}
+	
+	#projects {
+		padding-bottom: 458px;
+	}
+	
+	.filler {
+		display: none;
+	}
+	
+	.left {
+		width: 100%;
+		float: none;
+		border-bottom: 1px dashed #0066cc;
+		margin: 0 auto;
+		padding-bottom: 15px;
+	}
+	
+	#donatediv, #donatediv .left {
+		border: none !important;
+	}
+	
+	#donatediv img {
+		display: none;
+	}
+	
+	#contact {
+		padding-top: 10px;
+	}
+
+	
+	
+}
+
+@media screen and (min-width: 320px) and (max-width: 479px) {
+
+	#logo {
+		font-size: 50px;
+		width: 100%;
+		margin: 0 auto;
+	}
+	
+	#subtit {
+		font-size: 18px;
+	}
+	
+	.slides_container {
+		width:200px;
+		height:380px;
+		margin: 0 auto;
+	}
+	
+	.slides_container div {
+		width:200px;
+		height:380px;
+		display:block;
+	}
+
+	.promoImg {
+		width:200px;
+		height:380px;
+	}
+	
+	#wrappr, #phone, #description, .text, #donate, .donatewrappr {
+		width: 100%;
+	}
+	
+	#projects {
+		margin-top: 20px;
+	}
+	
+	#description {
+		padding: 2px;
+		margin-top: 20px;
+	}
+	
+	#welcome {
+		font-size: 18px;
+		position: relative;
+		margin-top: -430px;
+	}
+	
+	#slides {
+		position: relative;
+		top: 35px;
+	}
+	
+	#info {
+		padding-bottom: 402px;
+	}
+	
+	#info, #about, #contact {
+		font-size: 14px;
+	}
+	
+	#about {
+		padding: 10px;
+	}
+	
+	#projects {
+		padding-bottom: 400px;
+	}
+	
+	.filler {
+		display: none;
+	}
+	
+	.left {
+		width: 100%;
+		float: none;
+		border-bottom: 1px dashed #0066cc;
+		margin: 0 auto;
+		padding-bottom: 15px;
+	}
+	
+	#donatediv, #donatediv .left {
+		border: none !important;
+	}
+	
+	#donatediv img {
+		display: none;
+	}
+	
+	#contact {
+		padding-top: 10px;
+	}
+	
+}
+
+@media screen and (min-width: 480px) and (max-width: 599px) {
+	
+	#logo {
+		font-size: 70px;
+		width: 100%;
+		margin: 0 auto;
+	}
+	
+	#subtit {
+		font-size: 25px;
+	}
+	
+	.slides_container {
+		width:200px;
+		height:380px;
+		margin: 0 auto;
+	}
+	
+	.slides_container div {
+		width:200px;
+		height:380px;
+		display:block;
+	}
+
+	.promoImg {
+		width:200px;
+		height:380px;
+	}
+	
+	#wrappr, #phone, #description, .text, #donate, .donatewrappr {
+		width: 100%;
+	}
+	
+	#projects {
+		margin-top: 20px;
+	}
+	
+	#description {
+		padding: 2px;
+		margin-top: 20px;
+	}
+	
+	#welcome {
+		font-size: 25px;
+		position: relative;
+		margin-top: -430px;
+	}
+	
+	#slides {
+		position: relative;
+		top: 35px;
+	}
+	
+	#info {
+		padding-bottom: 422px;
+	}
+	
+	#info, #about, #contact {
+		font-size: 17px;
+	}
+	
+	#about {
+		padding: 10px;
+	}
+	
+	#projects {
+		padding-bottom: 440px;
+	}
+	
+	.filler {
+		display: none;
+	}
+	
+	.left {
+		width: 100%;
+		float: none;
+		border-bottom: 1px dashed #0066cc;
+		margin: 0 auto;
+		padding-bottom: 15px;
+	}
+	
+	#donatediv, #donatediv .left {
+		border: none !important;
+	}
+	
+	#donatediv img {
+		display: none;
+	}
+	
+	#contact {
+		padding-top: 10px;
+	}
+	
+}
+
+@media screen and (min-width: 600px) and (max-width: 767px) {
+
+	#logo {
+		font-size: 70px;
+		width: 100%;
+		margin: 0 auto;
+	}
+	
+	#subtit {
+		font-size: 25px;
+	}
+	
+	.slides_container {
+		width:200px;
+		height:380px;
+		margin: 0 auto;
+	}
+	
+	.slides_container div {
+		width:200px;
+		height:380px;
+		display:block;
+	}
+
+	.promoImg {
+		width:200px;
+		height:380px;
+	}
+	
+	#wrappr, #phone, #description, .text, #donate, .donatewrappr {
+		width: 100%;
+	}
+	
+	#projects {
+		margin-top: 20px;
+	}
+	
+	#description {
+		padding: 2px;
+		margin-top: 20px;
+	}
+	
+	#welcome {
+		font-size: 25px;
+		position: relative;
+		margin-top: -430px;
+	}
+	
+	#slides {
+		position: relative;
+		top: 35px;
+	}
+	
+	#info {
+		padding-bottom: 422px;
+	}
+	
+	#info, #about, #contact {
+		font-size: 17px;
+	}
+	
+	#about {
+		padding: 10px;
+	}
+	
+	#projects {
+		padding-bottom: 440px;
+	}
+	
+	.filler {
+		display: none;
+	}
+	
+	.left {
+		width: 100%;
+		float: none;
+		border-bottom: 1px dashed #0066cc;
+		margin: 0 auto;
+		padding-bottom: 15px;
+	}
+	
+	#donatediv, #donatediv .left {
+		border: none !important;
+	}
+	
+	#donatediv img {
+		display: none;
+	}
+	
+	#contact {
+		padding-top: 10px;
+	}
+}
+		
+}
+
+@media screen and (min-width: 768px) and (max-width: 899px) {
+
+}
+
+@media screen and (min-width: 900px) and (max-width: 1199px) {
+
+}
+
+@media screen and (min-width: 1200) {
+		
+}
+
